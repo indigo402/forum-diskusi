@@ -60,7 +60,7 @@ Tambah Pertanyaan
 </form>
 
 @push('scripts')
-<script src="https://cdn.tiny.cloud/1/uyhg8uh495t7usovbokf6xfv85apks9g0nlkrma2ov65ecda/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+<script src="https://cdn.tiny.cloud/1/o9gaju3i0r4b7sk6pfc9vhx3i2tqxx1miobz8wf3smg4okid/tinymce/6/tinymce.min.js"></script>
 <script>
     tinymce.init({
         selector: 'textarea',
