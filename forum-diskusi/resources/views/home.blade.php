@@ -1,7 +1,7 @@
 @extends('layout.master')
 
 @section('judul')
-Selamat Datang Di Forum Diskusi
+Diskusikan kekonyolan apa saja disini.
 @endsection
 
 @section('content')
