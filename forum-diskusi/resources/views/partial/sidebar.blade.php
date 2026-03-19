@@ -6,7 +6,7 @@
       </div>
       <div class="info">
         @auth
-             <a href="#" class="d-block"> {{Auth::user()->profile->name}}</a>
+             <a href="/profile/" class="d-block"> {{Auth::user()->profile->name}}</a>
         @endauth
       </div>
     </div>
