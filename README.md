@@ -15,7 +15,5 @@ Forum Tanya Jawab
 ![ERD](image-1.png)
 
 
-## Link Video
-
-- [Link Demo Aplikasi]()
-- [Link Deploy]()
+## Update 2026
+Update laravel and php version.
